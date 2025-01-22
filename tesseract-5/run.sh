@@ -1,0 +1,1 @@
+top -b -d 1 >> all_cpu_usage.txt

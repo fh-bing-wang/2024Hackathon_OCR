@@ -1,0 +1,1 @@
+COLUMNS=1000 top -b -d 1 -c | grep tesseract >> tesseract_cpu_usage.txt

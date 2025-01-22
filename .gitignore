@@ -1,0 +1,64 @@
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Licenses
+**/licenses/**
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+tmp_io/
+tmp_ingested/
+tmp_depersonalized/
+
+# gitkeep
+!**/.gitkeep
+
+/build/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables and secrets
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+*/venv/
+*/env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# pytest / unittest cache files
+.pytest_cache/
+nosetests.xml
+
+lib/
+site-packages/
+bin/
